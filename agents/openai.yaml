@@ -1,0 +1,6 @@
+interface:
+  display_name: "Offer Revenue Sprint"
+  short_description: "Offer and funnel teardown"
+  default_prompt: "Use $offer-revenue-sprint to audit this offer, landing page, or campaign and produce a revenue-focused action plan."
+policy:
+  allow_implicit_invocation: true
