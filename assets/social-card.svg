@@ -1,0 +1,26 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0B0F19"/>
+  <rect x="56" y="52" width="1088" height="526" rx="36" fill="#111827" stroke="#2DD4BF" stroke-width="2"/>
+  <circle cx="1015" cy="134" r="72" fill="#F59E0B" opacity="0.95"/>
+  <circle cx="1083" cy="225" r="42" fill="#22C55E" opacity="0.9"/>
+  <path d="M95 465C213 372 315 352 442 405C581 463 697 462 836 373C938 308 1028 297 1120 331" stroke="#2DD4BF" stroke-width="8" stroke-linecap="round"/>
+  <text x="96" y="130" fill="#2DD4BF" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="4">CODEX SKILL</text>
+  <text x="94" y="235" fill="#F9FAFB" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800">Offer Revenue</text>
+  <text x="94" y="324" fill="#F9FAFB" font-family="Inter, Arial, sans-serif" font-size="78" font-weight="800">Sprint</text>
+  <text x="98" y="390" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500">Turn weak offers, pages, emails, and ads into</text>
+  <text x="98" y="430" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="500">a practical 7-day revenue action plan.</text>
+  <g transform="translate(770 410)">
+    <rect width="292" height="68" rx="16" fill="#F9FAFB"/>
+    <text x="28" y="44" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800">8-role growth team</text>
+  </g>
+  <g transform="translate(96 500)">
+    <rect width="150" height="42" rx="21" fill="#2DD4BF"/>
+    <text x="24" y="29" fill="#0B0F19" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">ICP</text>
+    <rect x="170" width="150" height="42" rx="21" fill="#F59E0B"/>
+    <text x="194" y="29" fill="#0B0F19" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Hooks</text>
+    <rect x="340" width="150" height="42" rx="21" fill="#22C55E"/>
+    <text x="364" y="29" fill="#0B0F19" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Funnels</text>
+    <rect x="510" width="150" height="42" rx="21" fill="#A78BFA"/>
+    <text x="534" y="29" fill="#0B0F19" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800">Emails</text>
+  </g>
+</svg>
